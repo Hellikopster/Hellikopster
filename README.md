@@ -10,6 +10,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm Hellikopster;I'm Hellikopter;I'm Hellikopstik;I'm Hellikostik;I'm Hellikakster;I'm Hellikakstik;I'm Hellik;I'm Helli;Write your text;)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=Hellikopster)
